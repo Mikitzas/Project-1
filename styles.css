@@ -18,23 +18,23 @@
     right: 50%;
     top: 50%;
 }
-.imenujem1 img,
-.imenujem5 img{
+.section-1 img,
+.section-5 img{
     top: 50%;
     right: 50%;
 }
-.imenujem2 img,
-.imenujem7 img{
+.section-2 img,
+.section-7 img{
     top: 50%;
     left: 50%;
 }
-.imenujem3 img,
-.imenujem6 img{
+.section-3 img,
+.section-6 img{
     bottom: 50%;
     right: 50%;
 }
-.imenujem4 img,
-.imenujem8 img {
+.section-4 img,
+.section-8 img {
     bottom: 50%;
     left: 50%;
 }
@@ -44,85 +44,78 @@
     align-items: center;
     justify-content: center;
 }
-.imenujem1 .icon{
+.section-1 .icon{
     left: 35%;
     bottom: 15%;
 }
-.imenujem2 .icon{
+.section-2 .icon{
     right: 35%;
     bottom: 15%;
 }
-.imenujem3 .icon{
+.section-3 .icon{
     left: 35%;
     top: 15%;
 }
-.imenujem4 .icon{
+.section-4 .icon{
     right: 35%;
     top: 15%;
 }
-.imenujem5 .icon{
+.section-5 .icon{
     left: 15%;
     bottom: 35%;
 }
-.imenujem6 .icon{
+.section-6 .icon{
     left: 15%;
     top: 35%;
 }
-.imenujem7 .icon{
+.section-7 .icon{
     right: 15%;
     bottom: 35%;
 }
-.imenujem8 .icon{
+.section-8 .icon{
     right: 15%;
     top: 35%;
-}
-.objectcolor1 svg{
-    background-color: black;
-}
-.objectcolor1 path {
-    fill: aqua;
-    
 }
 
-.imenujem1  img{
+.section-1  img{
     filter: hue-rotate(0deg);
 }
-.imenujem2 img{
+.section-2 img{
     filter: hue-rotate(40deg);
 }
-.imenujem3 img{
+.section-3 img{
     filter: hue-rotate(80deg);
 }
-.imenujem4 img{
+.section-4 img{
     filter: hue-rotate(120deg);
 }
-.imenujem5 img{
+.section-5 img{
     filter: hue-rotate(160deg);
 }
-.imenujem6 img{
+.section-6 img{
     filter: hue-rotate(200deg);
 }
-.imenujem7 img{
+.section-7 img{
     filter: hue-rotate(240deg);
 }
-.imenujem8 img{
+.section-8 img{
     filter: hue-rotate(280deg);
 }
 .icon img:nth-child(2) {
     display: none;
   }
-.imenujem1 .colorchange,
-.imenujem2 .colorchange,
-.imenujem3 .colorchange,
-.imenujem4 .colorchange {
+.section-1 .colorchange,
+.section-2 .colorchange,
+.section-3 .colorchange,
+.section-4 .colorchange {
     width: 135px;
     height: 190px;
 
 }
-.imenujem5 .colorchange,
-.imenujem6 .colorchange,
-.imenujem7 .colorchange,
-.imenujem8 .colorchange {
+.section-5 .colorchange,
+.section-6 .colorchange,
+.section-7 .colorchange,
+.section-8 .colorchange {
     width: 190px;
     height: 135px;
 }
