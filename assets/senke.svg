@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="703px" height="702px" viewBox="0 0 703 702" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>8F7E14B4-0A4A-464C-B282-20BCCD50F41A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="49.7564201%" y1="53.1836346%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.628453351" offset="100%"></stop>
+        </linearGradient>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="0.0%" y="0.0%" width="100.0%" height="100.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="0" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.5">
+        <g id="Artboard-2" transform="translate(-369.000000, -161.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Senke" transform="translate(358.000000, 150.000000)">
+                <polygon id="Path-3-Copy-9" filter="url(#filter-2)" transform="translate(499.189941, 243.582729) rotate(135.000000) translate(-499.189941, -243.582729) " points="679.853131 256.935414 318.526751 256.935414 679.853131 230.230044"></polygon>
+                <polygon id="Path-3-Copy-10" filter="url(#filter-3)" transform="translate(542.663190, 375.352685) rotate(-180.000000) translate(-542.663190, -375.352685) " points="723.32638 388.70537 362 388.70537 723.32638 362"></polygon>
+                <polygon id="Path-3-Copy-11" filter="url(#filter-4)" transform="translate(480.416382, 499.189941) rotate(-135.000000) translate(-480.416382, -499.189941) " points="661.079572 512.542626 299.753192 512.542626 661.079572 485.837256"></polygon>
+                <polygon id="Path-3-Copy-12" filter="url(#filter-5)" transform="translate(348.647315, 542.663190) rotate(-90.000000) translate(-348.647315, -542.663190) " points="529.310505 556.015875 167.984125 556.015875 529.310505 529.310505"></polygon>
+                <polygon id="Path-3-Copy-13" filter="url(#filter-6)" transform="translate(224.810059, 480.334851) rotate(-45.000000) translate(-224.810059, -480.334851) " points="405.473249 493.687536 44.1468694 493.687536 405.473249 466.982166"></polygon>
+                <polygon id="Path-3-Copy-14" filter="url(#filter-7)" points="362 362 0.673620242 362 362 335.29463"></polygon>
+                <polygon id="Path-3-Copy-15" filter="url(#filter-8)" transform="translate(243.566218, 224.810059) rotate(-315.000000) translate(-243.566218, -224.810059) " points="424.229408 238.162744 62.9030279 238.162744 424.229408 211.457374"></polygon>
+                <polygon id="Path-3-Copy-16" filter="url(#filter-9)" transform="translate(375.352685, 181.336810) rotate(-270.000000) translate(-375.352685, -181.336810) " points="556.015875 194.689495 194.689495 194.689495 556.015875 167.984125"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

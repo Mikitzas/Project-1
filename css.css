@@ -1,0 +1,128 @@
+#wrapper{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 700px;
+    height: 701px;
+    transform: translate(-50%, -50%);
+}
+#wrapper img,
+#wrapper object{
+    position: absolute;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 50%;
+    top: 50%;
+}
+.imenujem1 img,
+.imenujem5 img{
+    top: 50%;
+    right: 50%;
+}
+.imenujem2 img,
+.imenujem7 img{
+    top: 50%;
+    left: 50%;
+}
+.imenujem3 img,
+.imenujem6 img{
+    bottom: 50%;
+    right: 50%;
+}
+.imenujem4 img,
+.imenujem8 img {
+    bottom: 50%;
+    left: 50%;
+}
+.icon{
+    display: flex;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+}
+.imenujem1 .icon{
+    left: 35%;
+    bottom: 15%;
+}
+.imenujem2 .icon{
+    right: 35%;
+    bottom: 15%;
+}
+.imenujem3 .icon{
+    left: 35%;
+    top: 15%;
+}
+.imenujem4 .icon{
+    right: 35%;
+    top: 15%;
+}
+.imenujem5 .icon{
+    left: 15%;
+    bottom: 35%;
+}
+.imenujem6 .icon{
+    left: 15%;
+    top: 35%;
+}
+.imenujem7 .icon{
+    right: 15%;
+    bottom: 35%;
+}
+.imenujem8 .icon{
+    right: 15%;
+    top: 35%;
+}
+.objectcolor1 svg{
+    background-color: black;
+}
+.objectcolor1 path {
+    fill: aqua;
+    
+}
+
+.imenujem1  img{
+    filter: hue-rotate(0deg);
+}
+.imenujem2 img{
+    filter: hue-rotate(40deg);
+}
+.imenujem3 img{
+    filter: hue-rotate(80deg);
+}
+.imenujem4 img{
+    filter: hue-rotate(120deg);
+}
+.imenujem5 img{
+    filter: hue-rotate(160deg);
+}
+.imenujem6 img{
+    filter: hue-rotate(200deg);
+}
+.imenujem7 img{
+    filter: hue-rotate(240deg);
+}
+.imenujem8 img{
+    filter: hue-rotate(280deg);
+}
+.icon img:nth-child(2) {
+    display: none;
+  }
+.imenujem1 .colorchange,
+.imenujem2 .colorchange,
+.imenujem3 .colorchange,
+.imenujem4 .colorchange {
+    width: 135px;
+    height: 190px;
+
+}
+.imenujem5 .colorchange,
+.imenujem6 .colorchange,
+.imenujem7 .colorchange,
+.imenujem8 .colorchange {
+    width: 190px;
+    height: 135px;
+}
